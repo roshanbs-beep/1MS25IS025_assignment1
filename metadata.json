@@ -1,0 +1,6 @@
+{
+  "name": "AI Research Paper Agent",
+  "description": "Intelligent academic research assistant for topic exploration, literature review with real grounding, structured academic paper drafting, and multi-format citations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
